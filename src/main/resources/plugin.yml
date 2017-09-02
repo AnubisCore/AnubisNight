@@ -1,0 +1,9 @@
+name: AnubisNight
+main: io.github.ffy00.AnubisNight
+version: 1.0
+author: FFY00
+depend: [ProtocolLib]
+commands:
+  servertime:
+    description: Shows server time
+    permission: anubis.night
